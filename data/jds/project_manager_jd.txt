@@ -1,0 +1,25 @@
+**Job Title**: Technical Project Manager  
+**Location**: Remote (US-based only)  
+**Division**: Product Delivery  
+
+**Job Summary**:  
+We are looking for an experienced Technical Project Manager to oversee the planning and delivery of software development initiatives. You will lead cross-functional teams, track deliverables, and ensure projects meet scope, budget, and timeline goals.
+
+**Key Responsibilities**:
+- Define project scope, timelines, and resources with leadership and clients.
+- Use Agile (Scrum/Kanban) frameworks to manage sprints and daily standups.
+- Maintain project documentation, risk registers, and sprint boards (Jira).
+- Act as the main point of contact between tech, QA, and business teams.
+- Ensure timely delivery and manage scope changes or blockers.
+- Conduct stakeholder updates and sprint retrospectives.
+
+**Required Skills**:
+- 3+ years managing software development projects.
+- Hands-on experience with project tools like Jira, Confluence, or ClickUp.
+- Familiarity with SDLC, Agile, and Waterfall methodologies.
+- Strong interpersonal and negotiation skills.
+
+**Preferred Qualifications**:
+- PMP or Certified Scrum Master (CSM) certification.
+- Background in software engineering or product development.
+- Experience with resource planning and project cost estimation.

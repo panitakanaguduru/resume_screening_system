@@ -1,0 +1,25 @@
+**Job Title**: Software Developer (.NET Core)  
+**Location**: Onsite – Charlotte, NC  
+**Team**: Digital Product Engineering  
+
+**Job Summary**:  
+We are hiring a full-stack Software Developer with expertise in .NET and frontend frameworks to build modern applications for our B2B SaaS platform. You will work in an Agile team to deliver secure, scalable, and maintainable code.
+
+**Key Responsibilities**:
+- Build APIs and backend logic using .NET Core and Entity Framework.
+- Design frontend components using React.js or Angular.
+- Participate in architecture reviews and write technical design documents.
+- Implement unit testing and CI/CD pipelines.
+- Collaborate with QA, DevOps, and product managers on feature releases.
+- Debug performance issues and handle production support.
+
+**Required Skills**:
+- 2+ years experience in C#/.NET development.
+- Strong JavaScript/TypeScript knowledge with frontend frameworks.
+- Experience with RESTful APIs, MVC pattern, and SQL Server.
+- Familiarity with Git, Docker, and Agile ceremonies.
+
+**Preferred Qualifications**:
+- Exposure to microservices architecture.
+- Knowledge of Azure cloud services (App Service, Azure SQL, Key Vault).
+- Understanding of security protocols (OAuth, JWT).

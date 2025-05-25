@@ -1,0 +1,26 @@
+**Job Title**: Data Analyst  
+**Location**: Remote  
+**Industry**: Healthcare Analytics  
+
+**Job Summary**:  
+We are seeking a Data Analyst to support our decision-making processes by collecting, analyzing, and interpreting complex datasets. The role will focus on improving healthcare outcomes and operational efficiencies through insightful analysis.
+
+**Key Responsibilities**:
+- Collect, clean, and validate data from SQL databases, Excel files, and APIs.
+- Design and maintain automated dashboards using Power BI or Tableau.
+- Perform exploratory data analysis (EDA) and statistical testing.
+- Support A/B testing and build reports for campaign performance.
+- Present findings to cross-functional teams and provide actionable recommendations.
+- Work with data engineers to improve data pipelines and models.
+- Document metrics, processes, and data definitions in a central knowledge base.
+
+**Required Skills**:
+- Advanced SQL skills (joins, subqueries, window functions).
+- Proficiency in Python or R for statistical computing.
+- Hands-on experience with Power BI, Tableau, or similar tools.
+- Strong analytical and storytelling skills.
+
+**Preferred Qualifications**:
+- Familiarity with cloud platforms like AWS, Azure, or GCP.
+- Experience working in healthcare, insurance, or public health datasets.
+- Knowledge of predictive modeling and regression analysis.

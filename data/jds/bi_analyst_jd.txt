@@ -1,0 +1,25 @@
+**Job Title**: Business Intelligence Analyst  
+**Location**: Hybrid – Orlando, FL  
+**Department**: Operations & Strategy  
+
+**Job Summary**:  
+As a BI Analyst, you'll partner with business leaders to deliver strategic insights through dashboards and analytics tools. You’ll be instrumental in identifying growth areas, optimizing operations, and supporting data-driven culture.
+
+**Key Responsibilities**:
+- Build and manage interactive dashboards and data visualizations in Power BI.
+- Create semantic data models using DAX and Power Query.
+- Write optimized SQL queries to gather and aggregate data.
+- Work with stakeholders to capture KPIs and design scalable reports.
+- Ensure data integrity, validation, and consistency across reports.
+- Provide training to internal users on dashboard usage and interpretation.
+
+**Required Skills**:
+- Deep knowledge of Power BI, DAX, and data modeling.
+- Solid SQL skills and understanding of relational databases.
+- Strong Excel and data cleaning capabilities.
+- Excellent communication and documentation skills.
+
+**Preferred Qualifications**:
+- Experience with data warehouse tools (Snowflake, Redshift, Synapse).
+- Understanding of ETL pipelines and data governance.
+- Previous work with financial or supply chain data.

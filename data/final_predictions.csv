@@ -1,0 +1,1375 @@
+filename,Data Analyst Score (%),BI Analyst Score (%),Developer Score (%),Project Manager Score (%),Best Match Role,Best Match Score (%),content,similarity_score (%),similarity_score,skill_match_score,skill_match_score_norm,final_score,final_score (%),shortlisted,predicted_shortlist,shortlisted_label,predicted_label
+new_resume.pdf,5.29,3.04,9.53,8.51,Developer Score (%),9.53,"ILYIA KAR ASLAVOV
+SECURITY ENGINEER
+CONTACT
+ilyia.karaslavov@email.com
+(123) 456-7890
+Phoenix, AZ
+LinkedIn
+EDUCATION
+Bachelor of Science
+Cybersecurity
+Grand Canyon University
+2003 - 2005
+Phoenix, AZ
+SKILLS
+Java
+Spring
+Hibernate
+SQL
+AWS
+Azure
+ITF+
+A+
+Project Management
+Interpersonal
+Communication
+WORK EXPERIENCE
+Senior Information Security Engineer
+Wells Fargo
+2015 - current / Chandler, AZ
+Designed, built, configured, and deployed 50+ firewall, intrusion
+detection, and infrastructure automation technologies
+Identified and investigated 100% of threats and vulnerabilities,
+reducing the risk of successful cyber attacks by 83%
+Supported perimeter initiatives by automating and integrating the
+provisioning of accounts in the AWS cloud
+Provided consultation on 181 technologies to address security gaps
+Network Security Engineer
+Infosys
+2010 - 2015 / Phoenix, AZ
+Designed and maintained 100% of cybersecurity soft & hardware
+Launched initiative to converge IT and OT networks, saving $48K a
+year in labor costs and security initiatives
+Maintained Process Control Network and 3 Pipeline SCADA
+Networks to ensure effectiveness, reliable operation, and security
+Software Engineer
+Voice Media Group
+2007 - 2010 / Phoenix, AZ
+Responsible for 100% of engineering, testing, implementation, and
+maintenance of both code and codebases
+Conducted statistical analysis and troubleshooting for site lead and
+4 key management personnel
+Participated in all phases of software development, including initial
+design, prototype development, and production
+Overhauled outdated practices to develop algorithms, ensure
+compliance, and conduct initial design stages for applications
+Software/Java Engineer
+SimuLogix
+2005 - 2007 / Phoenix, AZ
+Led production processes for 14 new products
+Partnered with software developers and quality assurance
+engineers to build and test 3 types of new products
+Designed and developed 6 scalable enterprise web applications
+Collaborated with 4 engineers to update 20+ tools and processes",9.53,0.0953,1,0.16666666666666666,0.11670999999999998,11.67,0,0,No,No
+Resume1.pdf,17.75,20.8,2.93,3.79,BI Analyst Score (%),20.8,"TOMISLAV ABRAMOVIC
+Junior Data Analyst
+tomislav.abram@email.com
+(123) 456-7890
+Sausalito, CA
+LinkedIn
+Twitter
+WORK EXPERIENCE
+Junior Data Analyst
+Sunbit
+July 2020 - current
+San Francisco, CA
+Designed over 310 ad hoc queries with SQL in Cognos
+ReportNet, examined reports, and presented findings in
+PowerPoint and Excel
+Built 140 complex SQL reports to audit $2.5M of pay and
+benefits for over 1,300 employees
+Reengineered standard operational procedures that
+improved 22 functional areas and data management
+Maintained reports with a 98% on-time delivery
+Facilitated data distribution, file sharing, and report
+tracking for over 4,000 files with SharePoint
+Data Analyst Internship
+DoorDash
+October 2019 - May 2020
+San Francisco, CA
+Performed advanced analytics functions, including data
+modeling and prescriptive analytics
+Utilized techniques and business intelligence (Power BI) to
+create 24 dashboards and 35 ad hoc reports to address
+business problems and streamline processes
+Supported 16 T-SQL / VBA applications and tools
+PROJECT
+Digital Analytics Association (DAA)
+Member
+Led Gender and Age detection project leveraging data
+from organizational membership and associated websites
+Created a Python application that predicts the age and
+gender of a site visitor based on a single image
+Used computer vision tools to recognize digital images
+and Deep Learning to determine age and gender based
+on facial characteristics
+Published applications including AI algorithms that
+accounted for makeup, facial expressions, lighting, and
+obstructions in gender and age detection 
+CAREER
+OBJECTIVE
+Highly educated, innovative, and
+motivated data analysis
+professional with a wealth of
+knowledge. Seeking a challenging
+and career-advancing position as a
+junior data analyst with Tech Firefly.
+EDUCATION
+Bachelor's of Science
+Computer Science
+University of San Francisco
+2016 - 2020
+San Francisco, CA
+GPA: 4.0
+Awards
+2020 - Pedro Arrupe Award for
+rising seniors (Mission Council,
+Office of the President)
+SKILLS
+Data Analytics
+Data Visualization
+Microsoft SQL
+Microsoft Power BI
+Tableau
+Python and R
+CERTIFICATIONS
+Google Data Analytics
+Professional
+Associate Certified Analytics
+Professional (aCAP)",20.8,0.20800000000000002,5,0.8333333333333334,0.3956,39.56,1,1,Yes,Yes
+Resume10.pdf,12.82,19.39,2.05,2.52,BI Analyst Score (%),19.39,"Matthew Baker
+Business Intelligence Analyst
+m.baker@email.com
+(123) 456-7890
+Boston, MA
+LinkedIn
+Twitter
+Work Experience
+Liberty Mutual Insurance - Business Intelligence Analyst
+2017 - current
+Boston, MA
+Leveraged MicroStrategy for data analysis, resulting in 63% improvement in data-driven decisions.
+Developed interactive data visualizations using D3.js, which improved user engagement by 78%.
+Managed and optimized Google BigQuery, leading to a 77% reduction in query response times.
+Designed and executed ETL processes with SSIS, improving data integration efficiency by 58%.
+State Street Corporation - Database Administrator
+2014 - 2017
+Boston, MA
+Administered PostgreSQL databases, optimizing data storage, reducing query execution time by 64%.
+Utilized IBM DataStage for streamlining data workflows, and reducing data transfer delays by 67%.
+Collaborated to develop database schemas using Microsoft Visio, improving data integrity by 88%.
+Facilitated documentation access through Confluence, which enhanced knowledge sharing by 64%.
+Wayfair - Junior Data Analyst
+2011 - 2014
+Boston, MA
+Conducted data analysis using IBM Watson Analytics, uncovering insights that contributed to a 54%
+increase in sales conversion rates.
+Implemented machine learning models on Google AI Platform, which resulted in a 62% improvement
+in demand forecasting accuracy.
+Assisted in data quality assessments and cleansing, enhancing data accuracy and reducing errors by
+31%.
+Partnered with senior analysts to create comprehensive data documentation, achieving a 54%
+improvement in data transparency and accessibility.
+Education
+Bentley University - Bachelor of Science, Business Analytics
+2007 - 2011
+Waltham, MA
+Skills
+MicroStrategy; D3.js; Google BigQuery; SSIS; Microsoft Visio; IBM Watson Analytics; Google AI Platform;
+PostgreSQL; IBM DataStage; Confluence
+Certifications
+Certified Business Intelligence Professional (CBIP)",19.39,0.19390000000000002,2,0.3333333333333333,0.23573,23.57,0,0,No,No
+Resume11.pdf,5.95,2.96,12.72,6.32,Developer Score (%),12.72,"CHARLES MCTURLAND
+SOFTWARE ENGINEER
+CONTACT
+cmcturland@email.com
+(123) 456-7890
+New York, NY
+LinkedIn
+EDUCATION
+B.S.
+Computer Science
+University of Pittsburgh
+September 2008 - April 2012
+Pittsburgh, PA
+SKILLS
+Python (Django)
+Javascript (NodeJS ReactJS,
+jQuery)
+SQL (MySQL, PostgreSQL,
+NoSQL)
+HTML5/CSS
+AWS
+Unix, Git
+WORK EXPERIENCE
+Software Engineer
+Embark
+January 2015 - current / New York, NY
+Worked with product managers to re-architect a multi-page web
+app into a single page web-app, boosting yearly revenue by $1.4M
+Constructed the logic for a streamlined ad-serving platform that
+scaled to our 35M users, which improved the page speed by 15%
+after implementation
+Tested software for bugs and operating speed, fixing bugs and
+documenting processes to increase efficiency by 18%
+Iterated platform for college admissions, collaborating with a group
+of 4 engineers to create features across the software
+Software Engineer
+MarketSmart
+April 2012 - January 2015 / Washington, DC
+Built RESTful APIs that served data to the JavaScript front-end
+based on dynamically chosen user inputs that handled over 500,000
+concurrent users
+Built internal tool using NodeJS and Pupeteer.js to automate QA and
+monitoring of donor-facing web app, which improved CTR by 3%
+Reviewed code and conducted testing for 3 additional features on
+donor-facing web app that increased contributions by 12%
+Software Engineer Intern
+Marketing Science Company
+April 2011 - March 2012 / Pittsburgh, PA
+Partnered with a developer to implement RESTful APIs in Django,
+enabling analytics team to increase reporting speed by 24%
+Using Selenium I built out a unit testing infrastructure for a client
+application that reduced the number of bugs reported by the client
+by 11% month over month
+PROJECTS
+Poker Simulation
+Built a full-stack web app to allow users to simulate and visualize
+outcomes of poker hands against opponents of different play styles
+using open source cards.js on the front-end
+Utilized sci-kit learn in Python to simulate possible outcomes under
+different scenarios that the user chose",12.72,0.1272,2,0.3333333333333333,0.18903999999999999,18.9,0,0,No,No
+Resume12.pdf,4.69,3.1,12.85,8.31,Developer Score (%),12.85,"CYNTHIA DWAYNE
+Software Developer
+CONTACT
+cynthia@beamjobs.com
+(123) 456-7890
+Brooklyn, NY
+LinkedIn
+Github
+CAREER OBJECTIVE
+Throughout my 7-year-plus
+career as a software developer, I
+have focused on developing
+scalable and well-documented
+code. I enjoy working
+collaboratively but can also run
+with projects independently.
+Excited about the prospect of
+joining a product-driven
+company like Acme Corp.
+EDUCATION
+Bachelor of Science
+Computer Science
+University of Delaware
+August 2008 - May 2012
+Newark, DE
+SKILLS
+Python (Django)
+SQL (PostgreSQL, MySQL)
+Cloud (GCP, AWS)
+JavaScript (ES6, React, Redux,
+Node.js)
+Typescript
+HTML/ CSS
+CI/CD
+WORK EXPERIENCE
+Software Developer
+QuickBooks
+January 2017 - current / New York, NY
+· Worked on the payments team to save time and improve cash
+flow for over 50,000 through the development of modern,
+responsive customer experiences
+· Led the migration from AWS to GCP for the team to reduce
+cloud costs by $260,000 per year
+· Worked closely with the product team to re-configure the
+processing of invoices, saving customers over 125,000 manual
+hours of work per month
+· Mentored 3 junior front-end developers on the team on React,
+and documented best practices within the organization
+Front-End Developer
+AMR
+January 2014 - December 2016 / New York, NY
+· Contributed to the in-house UI library to create reusable
+components that saved 125+ hours of development per month
+· Created a web app MVP for a store delivery management
+platform with 200+ business customers to create, manage, and
+monitor deliveries using React and Redux
+· Added features to meditation app with 5,000+ monthly users,
+enabling audio and video uploads using React and Redux
+· Improved customer conversion rate by 17% through A/B
+testing of different components and combinations,
+representing $500,000+ in incremental annual revenue
+Help Desk Analyst
+Kelly
+June 2012 - January 2014 / New York, NY
+· Diagnosed technical issues for 30+ clients per day by phone,
+email, and chat, solving issues within 15 minutes on average
+· Successfully reached solutions for 92% of computer errors, and
+escalated more complex tickets to higher tiers to assist clients
+as quickly as possible
+· Created user accounts for 50+ clients per week, and assisted
+them with setting up and customizing their accounts
+· Created and updated documentation as needed concerning
+network, software, and hardware problems",12.85,0.1285,2,0.3333333333333333,0.18995,19.0,0,0,No,No
+Resume13.pdf,5.8,3.95,9.49,8.76,Developer Score (%),9.49,"Tasiana Ukura
+tukura@email.com
+(123) 456-7890
+Seattle, WA
+LinkedIn
+WORK EXPERIENCE
+Fast - Senior Software Engineer
+October 2016 - current
+Seattle, WA
+· Built and maintained application that scaled to 2M daily users, communicating with cross-functional
+teams regarding product and design
+· Transformed UIs using React, decreasing debugging time by 62% and increasing views by 31%
+· Focused on front-end development, providing mentorship and coaching to 6 interns each summer
+· Oversaw a team of 4 to write scalable code for the e-commerce platform that increase payment
+protection by 15%
+Adaptiva - Software Engineer
+May 2009 - October 2016
+Seattle, WA
+· Developed cloud-based technologies with C ++ and Java to assist Fortune 500 companies with scaling
+content distribution by 60% or more and increasing their productivity by 40% or more
+· Teamed up with current clients to understand needs for improved functionality, and communicated with
+engineers and clients to develop enhancements that boosted client satisfaction by 27%
+· Manipulated algorithms to align with marketing, sales, and solutions, improving automation by 32%
+· Drafted documentations delineating designs and specs for more than 20 projects
+Expedia Group - Software Engineer Intern
+May 2008 - May 2009
+Seattle, WA
+· Worked with 5 other interns under the supervision of senior software engineer full stack development of
+the e-commerce system
+· Received coaching and support from peers and senior software engineer, and gained practical experience
+in using Java and Python
+· Studied data structures to recommend changes in algorithms, which boosted online sales by 6%
+· Partnered with interns, using code composition to redesign a clean API that offered increased flexibility
+to to third parties, which generated a revenue increase of $1.5M
+EDUCATION
+University of Washington - B.S., Computer Science
+August 2004 - May 2008
+Seattle, WA
+SKILLS
+Languages: Python, JavaScript, C++, Java; Frameworks: Django, NodeJS, React; Tools: jQuery, Unix, Git,
+Selenium; Databases: SQL (PostgreSQL, MySQL), NoSQL, AWS",9.49,0.0949,2,0.3333333333333333,0.16642999999999997,16.64,0,0,No,No
+Resume14.pdf,8.28,7.65,15.49,5.68,Developer Score (%),15.49,"GIULIA
+GONZALEZ
+Python Developer
+ggonzalez@email.com
+(123) 456-7890
+Detroit, MI
+LinkedIn
+Github
+EDUCATION
+M.S.
+Computer Science
+University of Chicago
+2014 - 2016
+Chicago, IL
+B.S.
+Computer Science
+University of Pittsburgh
+2010 - 2014
+Pittsburgh, PA
+SKILLS
+HTML/ CSS
+SQL (PostgreSQL, Oracle)
+JavaScript (Angular)
+Python (Django)
+REST APIs (GraphQL)
+AWS (Redshift, S3)
+Git
+WORK EXPERIENCE
+Python Developer
+DoorDash
+September 2017 - current
+Detroit, MI
+· Worked on building new Angular components for the customer-
+facing web app, which improved the time on page for the
+average user by 2 minutes
+· Collaborated with an agile team of 6, and helped prioritize and
+scope feature requests to ensure that the biggest impact
+features were worked on first
+· Built extensive test coverage for all new features, which reduced
+the number of customer complaints by 23%
+· Acquired and ingested data to build and maintain data pipelines
+that led to discovering an opportunity for a new site feature,
+boosting revenue by 6%
+· Communicated with internal teams and stakeholders, working
+to determine solutions for the user experience
+Python Developer Intern
+Knewton
+April 2016 - April 2017
+Chicago, IL
+· Worked alongside another developer to implement RESTful APIs
+in Django that enabled internal analytics team to increase
+reporting speed by 24%
+· Using Selenium, built out a unit testing infrastructure for a client
+web application that reduced the number of bugs reported by
+the client by 11% month over month
+· Provided project updates to leadership team of 3, and offered
+recommendations for design
+· Diagnosed issues causing slow speeds in applications, and
+documented the process to making the database query system
+more robust
+· Participated in writing scalable code with a team of 4 interns
+and 1 developer for applications for a math course
+PROJECTS
+Cryptocurrency Price Tracker
+Creator
+· Incorporated API calls to several applications, and stored data
+efficiently in PostgreSQL backend
+· Utilized D3.js to allow users to dynamically visualize price
+movements over time periods of their choosing",15.49,0.1549,2,0.3333333333333333,0.20843,20.84,0,0,No,No
+Resume15.pdf,8.9,9.99,8.52,7.53,BI Analyst Score (%),9.99,"CAIUS KESSLER
+Software Engineer
+Intern
+ckessler@email.com
+(123) 456-7890
+Seattle, WA
+LinkedIn
+EDUCATION
+B.S.
+Computer Science
+University of Washington
+September 2020 - current
+Seattle, WA
+Relevant courses
+Computer Science I and II
+Discrete Mathematics
+Data Structures and
+Algorithms
+Computer Organization and
+Architecture
+Operating Systems
+SKILLS
+Visual Studio
+Bitbucket
+Oracle
+Django
+Windows
+Java
+HOBBIES
+Food Photography
+Travel Photography
+Video editing and post-
+production
+CAREER OBJECTIVE
+Highly-driven computer science student with growing
+knowledge in Bitbucket, Oracle, and Java, seeking a software
+engineering internship at Microsoft. As a Microsoft Certified:
+Azure Developer Associate, I'm ready to contribute my passion
+and skills to help drive innovation as a global technology leader.
+WORK EXPERIENCE
+Data Entry Specialist
+Expedia Group
+May 2021 - current
+Seattle, WA
+Processed and entered 1,200+ travel records per week into
+Oracle databases.
+Utilized Java-based tools to import and export data,
+reducing data transfer time by 34%.
+Developed and deployed a Django-based web interface,
+increasing data accessibility for remote team by 22%.
+Generated data-driven insights, supporting key business
+decisions and driving a 6% increase in revenue.
+Gathered monthly reports on data entry metrics, helping
+strategic planning and resource allocation.
+PROJECTS
+Tech Pursuit
+Creator
+2020 - 2021
+Designed a robust database architecture utilizing Oracle,
+enhancing game performance by 38%.
+Streamlined game development process by integrating
+Visual Studio, reducing overall project time by 11%.
+Implemented version control and collaboration using
+Bitbucket, leading to a 21% decrease in code conflicts.
+Enhanced game character AI using Java, increasing positive
+user reviews by 29%.
+Conducted extensive playtesting and user feedback analysis
+every month, eliminating game bugs.
+CERTIFICATIONS
+Microsoft Certified: Azure Developer Associate
+Oracle Certified Professional: Java SE 11 Developer",9.99,0.0999,0,0.0,0.06992999999999999,6.99,0,0,No,No
+Resume16.pdf,6.32,5.34,4.49,7.68,Project Manager Score (%),7.68,"SEAN HAN
+ASSISTANT PROJECT MANAGER
+CONTACT
+sean.han@email.com
+(123) 456-7890
+Kansas City, MO
+LinkedIn
+CAREER
+OBJECTIVE
+Efficient self-starter eager to
+apply intern experience at
+Tenenz, where I can grow
+under the direction of a
+seasoned PM. Motivated to
+increase my skill set while
+offering meaningful
+contributions with SQL and
+Tableau abilities.
+EDUCATION
+B.S.
+Mathematics
+Kansas City University
+September 2016 - April 2020
+Kansas City, MO
+RELEVANT
+COURSES
+Intermediate programming
+Probability & Statistics
+Linear Algebra
+Applied Econometrics
+Game Theory
+Calculus 1-3
+SKILLS
+Google Analytics
+A/B testing and
+experimentation
+Excel, Google Sheets, SQL
+Tableau
+WORK EXPERIENCE
+Project Manager Intern
+Applied Marketing Science
+April 2019 - March 2020 / Kansas City, MO
+· Built data visualizations using SQL and Tableau for product KPIs
+that reduced manual reporting work by 10 hours weekly
+· Set up Google Analytics dashboards to identify product features
+that correlated with customer attrition, leading to proactive
+interventions that reduced monthly churn by 4%
+· Using Excel and SQL identified an area of the client product
+funnel that was underperforming and recommended
+improvements that increased free trial activation rate by 14%
+for 18-29-year-old females
+· Worked to understand client pain points, and demonstrated that
+data in team presentation reports
+Project Manager Intern
+Etsy
+April 2018 - July 2018 / Kansas City, MO
+· Developed and fostered relationships with customers to identify
+and remove roadblocks in obtaining the most value for Etsy
+· Designed and managed a new customer on-boarding process
+for Etsy services, resulting in an improvement in customer
+retention of ~24%
+· Performed tests and rollouts to ease vendor experience on Etsy
+with 6 project managers
+· Checked in with and collaboratd with department heads and
+cross-functional teams to meet a variety of needs
+PROJECTS
+Your Voice Matters Project
+· Scoped out features, created basic wireframes, and built the
+product roadmap for a mobile app that allows users to vote on
+the bands they want to play at community events
+· Won 2nd place overall out of 64 competing teams
+· Conducted user research interviews and metric tracking in
+Google Analytics to optimize feature-set, which improved daily
+engagement by 19%
+· Led the product direction for a team consisting of 2 engineers
+and a designer for a campus-wide hackathon
+· Spearheaded the launch and marketing of the product to our
+student-base, which went live to 16K students",7.68,0.0768,5,0.8333333333333334,0.30376,30.38,1,1,Yes,Yes
+Resume17.pdf,1.63,4.73,7.85,20.2,Project Manager Score (%),20.2,"Chazmin Taylor
+Entry-Level Project Manager
+chazmintaylor@email.com
+(123) 456-7890
+Miami, FL
+LinkedIn
+WORK EXPERIENCE
+Entry-Level Project Manager
+Co-founder
+Miami, FL | April 2018 - current
+Managed the development of a tool for e-commerce retailers to
+automatically recommend products to customers through Shopify
+Teamed up with a data scientist and 2 software developers to
+collaborate on project implementation
+Conducted 300+ user interviews, created schedules, and owned
+project development from ideation of features to development
+Developed relationships with stakeholders and clients, and
+implemented feedback to help retailers earn 13% more on average
+Workday
+Project Manager Intern
+Mansfield, CT | April 2019 - September 2019
+Acted as the liaison between product, IT, and sales teams to
+understand customer demand for new features and prioritize the
+product roadmap for the internal tooling team
+Owned the project schedule, and met 100% of feature deadlines by
+proactively identifying and mitigating any engineering roadblocks
+Developed an internal tool to streamline the process of onboarding
+new third-party vendors, reducing costs by $115K annually
+Participated in discussions and in presenting project reports to
+leadership, recommending changes and ideas
+FreshDirect
+Software Engineer Intern
+Pittsburgh, PA | April 2017 - September 2017
+Worked on building new Angular components for the customer-
+facing web app, which improved the time on page for the average
+user by 2.5 minutes
+Worked within an agile team, and helped prioritize and scope feature
+requests to ensure that the biggest impact features were worked on
+first
+Built extensive test coverage for all new features, which reduced the
+number of customer complaints by 17%
+Debriefed with project team to review goals, completed projects, and
+steps to drive KPIs 90% or higher
+SKILLS
+Software: SDLC, Python
+(Django), JavaScript
+(Node.js. Angular)
+Project Management:
+Agile (Scrum)
+Methodologies, Jira
+Microsoft Office: Excel,
+PowerPoint, Visio
+EDUCATION
+MBA
+University of Connecticut
+September 2018 - April 2020
+Mansfield, CT
+B.S.
+Computer Science
+University of Pittsburgh
+September 2014 - April 2018
+Pittsburgh, PA",20.2,0.20199999999999999,3,0.5,0.2914,29.14,1,1,Yes,Yes
+Resume18.pdf,2.2,2.51,0.91,10.59,Project Manager Score (%),10.59,"HARPER LEE
+Associate Project
+Manager
+harperlee@email.com
+(123) 456-7890
+Cincinnati, OH
+LinkedIn
+EDUCATION
+Associate of Applied Science
+in Management
+Sinclair Community College
+September 2013 - April 2015
+Dayton, OH
+SKILLS
+Smartsheet
+ClickUp
+Microsoft Teams
+Dropbox
+Microsoft Office 365
+Zapier
+Automate.io
+GitLab
+CERTIFICATIONS
+Certified Associate in Project
+Management (CAPM)
+WORK EXPERIENCE
+Associate Project Manager
+Medpace 
+April 2019 - current
+Cincinnati, OH
+Led team of 5 to complete Phase II clinical trial for oncology drug,
+achieving all study milestones on-time.
+Oversaw daily stand-up meetings, reducing communication
+errors by 13% and boosting task efficiency by 21%.
+Conducted risk assessments and developed mitigation plans for
+3 concurrent clinical trials, reducing potential delays by 36%.
+Automated project workflows with Zapier, reducing manual data
+entry errors by 26%.
+Utilized ClickUp to manage tasks and track progress, reducing
+miscommunications by 11%.
+Project Assistant
+Procter & Gamble
+April 2015 - July 2018
+Cincinnati, OH
+Managed project budgets and expenses per sponsor
+expectations, reducing overruns by 17% and increasing
+profitability by 9%.
+Maintained project files and documentation using Dropbox,
+reducing retrieval time by 33% and increasing project
+transparency by 15%.
+Executed market research and analysis, increasing project
+insights by 34% and decreasing potential risks by 22%.
+Facilitated team communication through Slack, increasing task
+completion efficiency by 16%.
+PROJECTS
+Community Manager
+ArtisanAlley
+2018 - 2019
+Increased social media following by 44% in six months via
+targeted campaigns and collaborations with craft influencers.
+Boosted sellers on platform by 39% through targeted outreach
+and partnerships with local artisan associations.
+Created and managed customer referral program, resulting in
+19% increase in customer acquisition.
+Coordinated and hosted online/offline events, including webinars
+and pop-up shops, increasing brand awareness and customer
+engagement.",10.59,0.1059,0,0.0,0.07412999999999999,7.41,0,0,No,No
+Resume19.pdf,5.21,1.93,5.81,13.58,Project Manager Score (%),13.58,"OLIVIA RODRIGUEZ
+Project Management Intern
+livrodriguez@email.com
+(123) 456-7890
+Hanover, MD
+LinkedIn
+CAREER OBJECTIVE
+Enthusiastic, recent graduate eager to contribute as an intern
+at Comcast. I'm excited to prove my skills in Everhour and Zoho
+and look forward to gaining valuable industry insight while
+building problem-solving skills for projects like Xumo.
+WORK EXPERIENCE
+Customer Service Representative
+T-Mobile
+April 2020 - April 2023
+Hanover, MD
+Reduced open customer cases by 19% and increased first-
+call resolution by 14% by utilizing Jira to track issues.
+Coordinated with cross-functional teams using Microsoft
+Project, resulting in a 23% reduction in escalations and a
+16% increase in issue resolution.
+Worked with technical support teams and resolved device
+and service issues, reducing product returns by 9%.
+Boosted customer satisfaction by 11% by providing
+personalized support through Google Meet.
+Raised customer feedback by 28% by conducting surveys
+tracked on Google Forms.
+PROJECTS
+Planner
+DIY Home Makeover
+2021 - current
+Reduced project turnaround time by 34% by creating and
+maintaining plans using Microsoft Project.
+Decreased overruns by 17% and increased accuracy by 15%
+by managing project budgets in Excel.
+Managed project tasks and deliverables with Trello,
+resulting in a 22% reduction in task delays.
+Ensured compliance with local regulations and laws by
+coordinating with legal team.
+Increased team productivity by 11% and efficiency by 13%
+using Zoho Workplace to maintain communication and
+collaborate on project documents.
+EDUCATION
+B.S.
+Management Studies
+University of Maryland Global
+Campus
+September 2019 - April 2023
+Adelphi, MD
+SKILLS
+Jira
+Google Sheets
+Google Meet
+Microsoft Project
+Everhour
+Google Drive
+WeTransfer
+Zoho Workplace
+CERTIFICATIONS
+Certified Associate in Project
+Management (CAPM)
+HOBBIES
+Interior Design
+Furniture Design
+Painting",13.58,0.1358,1,0.16666666666666666,0.14506,14.51,0,0,No,No
+Resume2.pdf,18.86,17.84,5.04,5.36,Data Analyst Score (%),18.86,"CHARLA SWAIN
+ENTRY-LEVEL RISK ADJUSTMENT DATA ANALYST
+CONTACT
+charla_swain@email.com
+(123) 456-7890
+San Francisco, CA
+LinkedIn
+EDUCATION
+Bachelor's of Science
+Data Science
+University of California,
+San Francisco
+2010 - 2014
+San Francisco, CA
+SKILLS
+Python
+SQL
+R
+Tableau
+Microsoft Excel
+Azure
+SciPy
+Data Preparation
+CAREER OBJECTIVE
+Driven and curious data analyst with experience working with Python,
+SQL, R, Tableau, and several more programming languages. With a
+passion for creative innovation and solving complex problems, I am eager
+to further implement my skills and improve my data analysis experience
+with a detail-driven data team like Amazon's.
+WORK EXPERIENCE
+Risk Adjustment Data Analyst Intern
+Blue Shield of California
+2014 - current / Oakland, CA
+Developed 6 methods to support the access, storage, and reporting
+of data sets that result from project initiatives
+Visualized and communicated the insights, patterns, and trends from
+complex data sets
+Performed data scrubbing, troubleshooting, quality checking, and
+usability analysis to identify 24 anomalies
+Developed knowledge of the top 33 KPIs related to Medicare Risk
+Adjustment and Hierarchical Condition Categories (HCCs)
+PROJECTS
+Toxic Mushroom Website - Biology Course Project
+Created a website to provide a singular resource for identifying and
+learning about toxic mushrooms
+Pulled data from a 2021 mushroom study to craft a 6,800-line JSON
+file to accompany data from the 1980s and provide a D3.js chart
+Designed an interactive Sunburst chart using observables and D3.js
+Led a team of 3 engineers to complete 10 Git Pull Requests
+Drafted and wrote documentation of code complete with Machine
+Learning charts and hyperlinks to the web pages and data resources
+Stock Analysis - Internship
+Utilized stock market KPIs to determine the state of the tech sector of
+the stock market
+Maintained a working knowledge of Data ETL, visualization, API
+frameworks, and statistical methods in Python
+Cleaned data and accessed JSON endpoints for 15+ companies
+Conducted a regression analysis to determine the correlation
+between the NASDAQ's price-to-earning ratio to revenue growth",18.86,0.1886,6,1.0,0.43201999999999996,43.2,1,1,Yes,Yes
+Resume20.pdf,3.31,3.8,1.25,17.17,Project Manager Score (%),17.17,"THERA
+MONTAGUE
+Junior Project
+Manager
+CONTACT
+t.montague@email.com
+(123) 456-7890
+Pittsburgh, PA
+LinkedIn
+EDUCATION
+Bachelor of Science
+Business Administration
+Carnegie Mellon
+University
+2016 - 2020
+Pittsburgh, PA
+SKILLS
+Microsoft Project
+Monday.com
+Asana
+Trello
+Basecamp
+JIRA
+Wrike
+Smartsheet
+ClickUp
+Notion
+WORK EXPERIENCE
+Junior Project Manager
+The Crossroads Group
+2024 - current
+Pittsburgh, PA
+Collaborated with three cross-functional project teams via
+Asana, expediting project delivery by 12 days on average
+Designed a risk assessment matrix in Wrike, identifying
+potential delays early and preventing schedule overruns by an
+average of 17%
+Developed a task automation workflow in ClickUp, saving an
+estimated 6.3 hours per week in manual status updates
+Spearheaded the adoption of JIRA, increasing issue-tracking
+efficiency and reducing resolution times for project blockers
+Project Analyst
+Wiverse
+2022 - 2024
+Pittsburgh, PA
+Analyzed project risk reports on JIRA, identifying high-priority
+risks and mitigating potential losses of $64,122 a year
+Implemented an automated reporting system in Smartsheet,
+reducing manual reporting time by 6% per week across all
+project managers
+Supervised project tracking enhancements using Basecamp,
+leading to a 13% decrease in missed deadlines across key
+client projects
+Ordered improvements to Notion documentation practices,
+cutting down time spent searching for project-related files by
+an estimated 5.8 minutes per query
+Project Coordinator
+Specified Systems Inc.
+2020 - 2022
+Pittsburgh, PA
+Superintended daily stand-up meetings using Monday.com,
+ensuring smooth coordination between teams and reducing
+project miscommunication incidents
+Systematized vendor management in Microsoft Project,
+reducing procurement delays and preventing estimated
+losses of $48,212 in supply chain disruptions
+Employed Trello to create a centralized project calendar,
+allowing for real-time updates and reducing meeting
+scheduling conflicts by 58% within the first six months
+Directed the implementation of Basecamp for document
+management, cutting down on duplicate files and saving an
+average of 8.2 hours per project",17.17,0.17170000000000002,0,0.0,0.12019,12.02,0,0,No,No
+Resume3.pdf,12.89,12.57,5.32,3.65,Data Analyst Score (%),12.89,"DEREK SOTO
+Data Analyst
+Desoto@email.com
+(123) 456-7890
+Brooklyn, NY
+LinkedIn
+EDUCATION
+B.S.
+Computer Science
+University of Pittsburgh
+September 2016 - April 2020
+Pittsburgh, PA
+GPA: 3.7
+Relevant courses
+Intermediate programming
+Probability & Statistics
+Linear Algebra
+Game Theory
+SKILLS
+Programming: SQL, Python
+(Pandas, scikit-learn)
+A/B Testing and
+Experimentation
+Modeling: Linear and
+Logistic Regressions
+Data Visualization: Excel,
+Google Sheets, Matplotlib,
+Tableau
+CAREER OBJECTIVE
+Organized, communicative, and quick-to-learn recent computer
+science graduate with 1 year of valuable internship experience.
+Seeking an opportunity as a data analyst to contribute to
+Vizance's data conversions and process improvements.
+WORK EXPERIENCE
+Market Research Analyst Intern
+Prudential
+April 2019 - March 2020
+Pittsburgh, PA
+Received, cleaned, and prepped data using Python, SQL, and
+Excel to help build marketing mix models that resulted in a
+lift in ROI of 8 basis points
+Built data visualizations using Tableau for KPIs that reduced
+manual reporting by 10 hours weekly
+Using Excel and SQL, built calculator for a client to help
+them prioritize their project roadmap by changing inputs
+like customer LTV, conversion rate, and organic traffic
+Collaborated with product managers, gaining insight into
+marketing aspects and writing documents
+Identified strategic marketing opportunity through detailed
+analysis with intern team, making recommendations that
+saved the client over $11K in yearly campaign costs
+Contributed to weekly and monthly reports on product
+development and design
+Worked with 4 interns to conduct an attitude study, which
+led current clients to purchase products 13% more often
+PROJECTS
+Fantasy Football Modeling
+Aggregated and prepped 6 years of NFL fantasy football
+projection data from 8 independent sources into MySQL
+database, which improved winning streak by 78%
+Built a random forest model in scikit-learn that combined
+disparate sources into one projection that outperformed the
+mean absolute error of the next best projection by 14%
+Movie Recommendation Engine
+Prepped IMDB and Rotten Tomatoes data and used k-
+nearest-neighbors in scikit-learn to build an improved movie
+recommendation system
+Saved an average of 17 minutes on movie selection relative
+to previous methodology
+Built visualizations in Tableau to show how ratings changed
+and how the model performed over time",12.89,0.12890000000000001,6,1.0,0.39022999999999997,39.02,1,1,Yes,Yes
+Resume4.pdf,11.9,12.19,6.46,12.15,BI Analyst Score (%),12.19,"DIEGO PEREZ
+Data Analyst Intern
+diego.perez@email.com
+(123) 456-7890
+Ann Arbor, MI
+LinkedIn
+EDUCATION
+B.S.
+Data Science
+University of Michigan
+August 2020 - current
+Ann Arbor, MI
+SKILLS
+MySQL
+Tableau
+SAS
+Python
+Amazon Web Services (AWS)
+HOBBIES
+Open-source contributions
+Dashboard development
+Information design
+CAREER OBJECTIVE
+With prior experience in data analytics and knowledge in MySQL, SAS,
+and Python, I'm seeking a data analyst internship at Thomson
+Reuters. Eager to combine my strong technical skills and appreciation
+for journalism to contribute to the company's position as a trusted
+source of information.
+WORK EXPERIENCE
+Waiter
+Zingerman's Deli
+January 2021 - current
+Ann Arbor, MI
+Received positive feedback on customer surveys for friendliness
+and efficiency to help boost repeat customers by 17%
+Trained 5 new waitstaff, contributing to a 27% increase in overall
+team efficiency
+Maintained a complaint resolution rate of 93% by resolving
+customer complaints promptly and effectively
+Ensured cleanliness and hygiene of the dining area, leading to a
+consistently high health inspection score
+PROJECTS
+TravelTrack 
+Travel Data Analyst
+March 2022 - current
+Helped users understand and improve their travel trends by
+using Tableau to create visually engaging dashboards
+Developed machine learning models to predict future travel
+spending and increased forecast accuracy by 31%
+Used Python to automate routine data processing tasks that
+saved an estimated 20 hours of manual work per week
+Improved service quality via a SAS-based advanced data model
+that identified key factors affecting customer satisfaction
+Recomendify 
+Project Manager
+January 2021 - February 2022
+Led a team of 10 classmates to successfully develop and launch
+the Recomendify engine that improves product
+recommendations
+Implemented Agile project management methodologies,
+resulting in a 34% increase in project delivery speed
+Facilitated communication between technical and non-technical
+stakeholders to improve project understanding and alignment
+Enhanced project tracking and reduced project overruns by
+employing Tableau to visualize project timelines and resources",12.19,0.1219,3,0.5,0.23532999999999998,23.53,1,1,Yes,Yes
+Resume5.pdf,13.98,13.63,3.89,2.07,Data Analyst Score (%),13.98,"FARAH MARTIN
+DATA ANALYST
+CONTACT
+farahmartin@email.com
+(123) 456-7890
+Brooklyn, NY
+LinkedIn
+EDUCATION
+B.S.
+Mathematics and
+Economics
+University of Pittsburgh
+September 2010 - April 2014
+Pittsburgh, PA
+SKILLS
+SQL
+Excel/ Google Sheets
+A/B Testing &
+Experimentation
+Tableau
+Python (Pandas, Scikit-learn)
+Google Analytics
+Leadership Experience
+WORK EXPERIENCE
+Data Analyst
+Fountain House
+May 2018 - current / New York, NY
+· Built out the data and reporting infrastructure from the
+ground up using Tableau and SQL to provide real-time insights
+into the product, marketing funnels, and business KPIs
+· Designed and implemented A/B experiments for products to
+improve the conversion rate by 19 basis points and reduce
+churn by 12 basis points
+· Implemented long-term pricing experiment that improved
+customer value by 25%
+· Built operational reporting in Tableau to find areas of
+improvement for contractors resulting in $250K in annual
+incremental revenue
+· Led a team of 2 full-time employees and 4 contractors
+Data Analyst
+Wavely
+August 2016 - May 2018 / New York, NY
+· Partnered directly with the executive team as the first data hire
+to formulate and report on KPIs across their web properties
+that received 225M visitors annually using SQL and Google
+Sheets
+· Built a logistic regression model to help the SEO team decide
+which keywords to target, resulting in a 15% lift in YoY site
+visitors in 2018
+· Collaborated with product managers to perform cohort
+analysis that identified an opportunity to reduce pricing by 22%
+for a segment of users to boost yearly revenue by $730K
+· Developed root cause reports to address problems with
+customer conversions, successfully revealing insights that
+boosted conversions by 32%
+Product Modeling Analyst
+Geico
+August 2014 - August 2016 / Washington D.C.
+· Developed and owned reporting for a nationwide retention
+program with Python, SQL, and Excel, saving ~90 hours of
+monthly labor
+· Identified procedural areas of improvement through customer
+data, using SQL to help improve the profitability of a
+nationwide retention program by 8%
+· Applied models and data to understand and predict repair
+costs for vehicles on the market, and presented findings to
+stakeholders",13.98,0.1398,5,0.8333333333333334,0.34786,34.79,1,1,Yes,Yes
+Resume6.pdf,13.19,17.93,3.09,5.86,BI Analyst Score (%),17.93,"MARSHALL MULLEN
+Business Intelligence Analyst
+Marsh@email.com
+(123) 456-7890
+Brooklyn, NY
+LinkedIn
+Twitter
+WORK EXPERIENCE
+Business Intelligence Analyst
+Wolf & Company PC
+January 2018 - current
+New York, NY
+Directed weekly, monthly, and ad-hoc reporting to inform 30+
+business stakeholders in decision-making
+Followed up with 8 different teams if data reporting was out of
+established thresholds
+Discovered data stories and insights and presented findings to 12
+executive team members
+Defined and validated data by working with 13 business partners to
+ensure data quality
+Built 25+ dashboards and reports, illustrating the fall-out rate of
+customers engaged in a product purchase funnel
+Junior Business Intelligence Analyst
+Integra Partners
+July 2014 - January 2018
+New York, NY
+Supported business intelligence and reporting across 5+ business
+units for Integra Partners
+Developed, implemented, and defined 20+ business metrics along
+with 7 program-oriented automation processes
+Assisted with the management and support of Integra’s Business
+Intelligence tools and reporting efforts across 5+ business units
+Built 3 new dashboards and 10+ reports to meet the needs of the
+business, gathering all appropriate requirements
+Identified and recommended 100+ opportunities to improve
+metrics/KPIs, market data, and customer trends
+Business Intelligence Analyst Intern
+Enkompas
+January 2014 - June 2014
+Pittsburgh, PA
+Assisted in Looker onboarding, development, maintenance,
+curation, and security access administration for 20+ interns/juniors
+Worked with 3 BI Engineering and BI Architecture members to
+ensure expected LookML models were present
+Constructed 60+ SQL statements to use with new dimensions and
+measures
+Analyzed and optimized queries and reports for prime performance
+EDUCATION
+Bachelor of Science
+Business Administration
+University of Pittsburgh
+September 2010 - June 2014
+SKILLS
+Business Management
+Statistical Analysis
+SQL
+Looker
+Tableau
+Excel
+Written and Oral Communication
+Creative Problem Solving
+Attention to Detail
+CERTIFICATIONS
+AWS",17.93,0.1793,4,0.6666666666666666,0.32550999999999997,32.55,1,1,Yes,Yes
+Resume7.pdf,17.54,19.71,1.98,3.92,BI Analyst Score (%),19.71,"LAUREN
+NELSON
+Business Intelligence
+Analyst
+l.nelson@email.com
+(123) 456-7890
+Seattle, WA
+LinkedIn
+Twitter
+EDUCATION
+Bachelor of Science
+Informatics
+University of Washington
+2010 - 2014
+Seattle, WA
+SKILLS
+Tableau
+Microsoft Power BI
+Amazon Redshift
+Talend
+Erwin Data Modeler
+R
+TensorFlow
+Oracle Database
+Apache Kafka
+Microsoft Teams
+CERTIFICATIONS
+Tableau Desktop Specialist
+WORK EXPERIENCE
+Business Intelligence Analyst
+Weyerhaeuser 
+2020 - current
+Seattle, WA
+Led in-depth training sessions for team members, improving
+Tableau proficiency across the department by 51%.
+Collaborated with cross-functional teams to optimize
+Amazon Redshift data warehouse, leading to a 63%
+improvement in query performance.
+Carried out data integration solutions using Talend, which
+improved data flow efficiency by 86%.
+Worked with the marketing team to develop automated
+email campaigns that resulted in a 71% increase in
+customer engagement.
+Business Intelligence Developer
+Salesforce
+2017 - 2020
+Seattle, WA
+Implemented complex data models and reports in
+Salesforce, improving data accuracy by 43% and enabling
+more informed customer relationship management.
+Leveraged Erwin Data Modeler to streamline data modeling
+processes that shrank development time by 77%.
+Conducted advanced statistical analysis using R to uncover
+insights that contributed to a 12% increase in sales
+conversion rates.
+Integrated machine learning models into TensorFlow,
+leading to a 54% improvement in customer churn prediction
+accuracy.
+Reporting Analyst
+Nordstrom
+2014 - 2017
+Seattle, WA
+Managed and maintained Oracle Database for reporting
+purposes, reducing reporting errors by 74%.
+Executed real-time data streaming solutions with Apache
+Kafka, which resulted in a 59% reduction in data latency.
+Facilitated team collaboration and communication through
+Microsoft Teams, improving project coordination and on-
+time delivery by 51%.
+Enacted data governance policies and procedures, ensuring
+data quality and compliance with industry standards.",19.71,0.1971,2,0.3333333333333333,0.23796999999999996,23.8,0,0,No,No
+Resume8.pdf,20.84,26.64,4.08,6.07,BI Analyst Score (%),26.64,"CONTACT
+k.mitchell@email.com
+(123) 456-7890
+Atlanta, GA
+LinkedIn
+Twitter
+EDUCATION
+Bachelor of Science
+Computational Media
+Georgia Institute of
+Technology
+2009 - 2013
+Atlanta, GA
+SKILLS
+Microsoft Power BI
+Tableau
+Snowflake
+Informatica
+IBM Data Architect
+Python
+PyTorch
+Microsoft SQL Server
+Talend
+Slack
+CERTIFICATIONS
+Certified Analytics Professional
+(CAP)
+WORK EXPERIENCE
+Business Intelligence Analyst
+UPS
+2019 - current / Atlanta, GA
+Utilized Microsoft Power BI to develop comprehensive
+interactive dashboards, resulting in a 44% increase in data
+accessibility.
+Implemented advanced data modeling techniques with
+Snowflake, which reduced report generation time by 29%.
+Supervised data integration projects using Informatica,
+achieving a 43% increase in data accuracy.
+Worked with cross-functional teams on IBM Data Architect to
+optimize data architecture, which resulted in a 72% reduction
+data storage costs.
+BI Report Developer
+Home Depot
+2016 - 2019 / Atlanta, GA
+Designed customized reports using Tableau, enhancing data-
+driven decision-making capabilities and reducing reporting
+errors by 51%.
+Leveraged Python to develop predictive models, improving
+demand forecasting accuracy by 23% and reducing excess
+inventory by 74%.
+Managed data pipelines and ETL processes in Microsoft SQL
+Server resulting in a 51% reduction in data processing time.
+Facilitated team collaboration and communication through
+Slack, enhancing project efficiency and on-time delivery by
+68%.
+Data Analyst Trainee
+Equifax
+2013 - 2016 / Atlanta, GA
+Assisted in data analysis tasks, including data cleansing and
+transformation, contributing to a 66% improvement in data
+quality.
+Led the adoption of agile project management methodologies,
+resulting in a 64% increase in project delivery speed and
+flexibility.
+Participated in cross-functional projects, aiding in data
+integration efforts and achieving a 7% reduction in data silos
+and redundancy.
+Collaborated to implement automated data validation scripts,
+which reduced data validation time by 17%.
+Business Intelligence Analyst
+KEVIN MITCHELL",26.64,0.2664,5,0.8333333333333334,0.43648,43.65,1,1,Yes,Yes
+Resume9.pdf,17.0,22.94,3.94,2.13,BI Analyst Score (%),22.94,"Emily Anderson
+Business Intelligence Analyst
+e.anderson@email.com
+(123) 456-7890
+Pittsburgh, PA
+LinkedIn
+Twitter
+WORK EXPERIENCE
+Business Intelligence Analyst
+Arconic
+Pittsburgh, PA | 2018 - current
+Developed advanced data visualizations in QlikView, which
+resulted in a 74% improvement in data accessibility.
+Created real-time dashboards using Google Data Studio, leading
+to a 44% increase in user engagement and data-driven insights.
+Optimized data retrieval in Microsoft Azure SQL Data Warehouse,
+achieving a 71% reduction in query response times.
+Streamlined data ingestion processes with Apache Nifi, reducing
+data processing time by 69%.
+Analytics Specialist
+BNY Mellon
+Pittsburgh, PA | 2015 - 2018
+Maintained complex data models using Toad Data Modeler,
+enhancing data accuracy and reducing errors by 54%.
+Utilized SAS for advanced data analytics that resulted in a 61%
+improvement in fraud detection accuracy.
+Collaborated with data scientists to implement machine
+learning models on Microsoft Azure Machine Learning, which
+improved customer segmentation accuracy by 51%.
+Performed data quality assessments, identifying and rectifying
+data anomalies, resulting in a 74% increase in data reliability.
+Junior System Analyst
+Comcast
+Philadelphia, PA | 2012 - 2015
+Administered and optimized MySQL databases, leading to a 33%
+reduction in query execution time and enhanced data retrieval
+efficiency.
+Implemented a proactive system monitoring solution, which
+reduced critical system incidents by 62% and minimizing
+downtime.
+Facilitated remote team collaboration using Zoom, resulting in a
+69% increase in team productivity and efficient project
+coordination.
+Conducted root cause analysis for system issues, leading to a
+44% reduction in system downtime.
+SKILLS
+QlikView
+Google Data Studio
+Microsoft Azure SQL
+Data Warehouse
+Apache Nifi
+Toad Data Modeler
+SAS
+Microsoft Azure Machine
+Learning
+MySQL
+Apache NiFi
+Zoom
+EDUCATION
+Bachelor of Science
+Business Analytics
+Drexel University
+2008 - 2012
+Philadelphia, PA
+CERTIFICATIONS
+Qlik Sense Business
+Analyst Certification",22.94,0.22940000000000002,1,0.16666666666666666,0.21058,21.06,0,0,No,No
